@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Olga</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm a data scientist. Mainly I work with Python, C++, SQL
+Some other things I have worked with: Docker, CICD, Bash (PG)</h3>
