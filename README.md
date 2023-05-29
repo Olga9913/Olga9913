@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - I'm a data scientist. Mainly I work with Python, C++, SQL
 - Some other things I have worked with: Docker, CICD, Bash
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools : -->
 
