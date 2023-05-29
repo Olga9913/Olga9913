@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 # Hi there, I'm Olga! [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 - I'm a data scientist. Mainly I work with Python, C++, SQL
 - Some other things I have worked with: Docker, CICD, Bash
+
+### :hammer_and_wrench: Languages and Tools :
+
