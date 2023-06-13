@@ -24,7 +24,7 @@ I'm a passionate data scientist with a focus on machine learning and natural lan
 ### Skills
 
 - Languages: Python, C/C++, Bash, SQL, LaTeX
-- Libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
 - Tools: Git, Linux, Docker, Continuous Integration and Continuous Deployment (CI/CD)
 
 ### What I Do
