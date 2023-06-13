@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Olga! 👋
+## Hello, I'm Olga! 👋
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
