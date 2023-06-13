@@ -1,4 +1,4 @@
-### Hello, I'm Olga! 👋
+### Hi there, I'm Olga! 👋
 
 <!--
 **Olga9913/Olga9913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
