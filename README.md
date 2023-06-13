@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 <h3 align="center">
  -->
 # Hi there, I'm Olga! [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-- I'm a data scientist. Mainly I work with Python, C/C++, SQL
-- Some other things I have worked with: Docker, CICD, Bash
+- I'm a data scientist. Mainly I work with machine learning and natural language processing.
+- Skills
+Languages: Python, C/C++, Bash, SQL, LaTeX
+Libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit learn, Pytorch
+Tools: Git, Linux, Docker, CICD
 
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
 
