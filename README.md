@@ -19,12 +19,28 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">
  -->
-# Hi there, I'm Olga! [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-- I'm a data scientist. Mainly I work with machine learning and natural language processing.
-- Skills
-Languages: Python, C/C++, Bash, SQL, LaTeX
-Libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit learn, Pytorch
-Tools: Git, Linux, Docker, CICD
+--# Hi there, I'm Olga! [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
-<!-- ### :hammer_and_wrench: Languages and Tools : -->
+## Hi there, I'm Olga! 👋
 
+Welcome to my GitHub profile! I'm thrilled to have you here.
+
+### About Me
+
+I'm a passionate data scientist with a focus on machine learning and natural language processing. My journey in this fascinating field has allowed me to explore the endless possibilities of data and uncover meaningful insights.
+
+### Skills
+
+- Languages: Python, C/C++, Bash, SQL, LaTeX
+- Libraries: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, PyTorch
+- Tools: Git, Linux, Docker, Continuous Integration and Continuous Deployment (CI/CD)
+
+### What I Do
+
+As a data scientist, I thrive on turning raw data into actionable intelligence. I apply my skills in machine learning and natural language processing to solve complex problems and extract valuable information from diverse datasets. With Python as my weapon of choice and a range of powerful libraries at my disposal, I enjoy crafting robust and efficient solutions.
+
+### Let's Connect
+
+If you share my passion for data science or have an interesting project in mind, I would love to hear from you! Feel free to reach out and let's explore the endless possibilities of data together.
+
+Thank you for visiting my profile, and I hope you find something valuable here. Happy coding! 🚀
