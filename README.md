@@ -29,4 +29,4 @@ I'm a passionate data scientist with a focus on machine learning and natural lan
 ### Let's Connect
 
 - Tg: s21_fernando
-- e-mail: olgazuikova14@gmail.com
+- E-mail: olgazuikova14@gmail.com
