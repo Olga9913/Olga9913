@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm thrilled to have you here.
+Welcome to my GitHub profile!
 
 ### About Me
 
-I'm a passionate data scientist with a focus on machine learning and natural language processing.
+I'm a data scientist with a focus on machine learning and natural language processing.
 ### Skills
 
 - Languages: Python, C/C++, Bash, SQL, LaTeX
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
-- Tools: Git, Linux, Docker, Continuous Integration and Continuous Deployment (CI/CD)
+- Tools: Git, Linux, Docker, CI/CD
 
 ### Let's Connect
 
