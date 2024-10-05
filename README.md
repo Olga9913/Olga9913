@@ -23,10 +23,10 @@ I'm a data scientist with a focus on machine learning and natural language proce
 ### Skills
 
 - Languages: Python, C/C++, Bash, SQL, LaTeX
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
-- Tools: Git, Linux, Docker, CI/CD
+- Libraries & Frameworks: NumPy, Matplotlib, pandas, scikit‑learn, PyTorch, SciPy, CatBoost, XGBoost, LightGBM, etc
+- Tools: MLflow, Git, Linux, Docker, CI/CD
 
 ### Let's Connect
 
-- Tg: s21_fernando
+- Tg: @zuikovaov
 - E-mail: olgazuikova14@gmail.com
